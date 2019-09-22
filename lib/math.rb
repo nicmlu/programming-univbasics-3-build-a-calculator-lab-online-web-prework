@@ -19,9 +19,11 @@ p multiply
 end
 
 def modulo(num1, num2)
-
+  remainder = num2 % num1
+p remainder
 end
 
 def square_root(num)
+  square_root = 
 
 end
