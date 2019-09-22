@@ -24,6 +24,6 @@ p remainder
 end
 
 def square_root(num)
-  square_root = sqrt(num)
+  square_root = Math.sqrt(num)
 p square_root
 end
