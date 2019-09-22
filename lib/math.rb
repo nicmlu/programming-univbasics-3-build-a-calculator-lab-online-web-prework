@@ -4,12 +4,12 @@ p sum
 end
 
 def subtraction(num1, num2)
-  difference = num2 - num1
+  difference = num1 - num2
 p difference
 end
 
 def division(num1, num2)
-  quotient = num2 / num1
+  quotient = num1 / num2
 p quotient
 end
 
@@ -19,7 +19,7 @@ p multiply
 end
 
 def modulo(num1, num2)
-  remainder = num2 % num1
+  remainder = num1 % num2
 p remainder
 end
 
